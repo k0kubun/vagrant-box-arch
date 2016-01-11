@@ -10,3 +10,5 @@ https://atlas.hashicorp.com/k0kubun/archlinux
 vagrant init k0kubun/archlinux
 vagrant up
 ```
+
+package.box is available on [Releases](https://github.com/k0kubun/vagrant-box-arch/releases) page.
